@@ -19,7 +19,7 @@ Java Home Manager, sisteminizde yüklü tüm Java sürümlerini algılar ve kola
 
 ## 📸 Ekran Görüntüsü
 
-![ekran görüntüsü](https://your-screenshot-url-here.com)
+![image](https://github.com/user-attachments/assets/1062736f-37bf-4a40-a91a-ae1785eef035)
 
 ---
 
